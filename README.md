@@ -6,18 +6,24 @@
 + 28/11/2023 - Introdução a Sistemas Embarcados e ao Arduino [[Slides]](00_Curse_Folder/1_Fundamentals/Class_01/IESTI01_TinyML_class_1.pdf)
 + 05/12/2023	Desafios do TinyML Paradigma de Machine Learning e construindo uma Deep Learning (DL) [[Slides]](00_Curse_Folder/1_Fundamentals/Class_02/IESTI01_TinyML_class_2.pdf) [[Tarefa]](00_Curse_Folder/1_Fundamentals/Class_02/docs/)
 
-## References
-The current version of this pioneering course in Latin America is primarily based on:
-+ [Harvard School of Engineering and Applied Sciences - CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
-+ [Professional Certificate in Tiny Machine Learning (TinyML) – edX/Harvard](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
-+ [Introduction to Embedded Machine Learning - Coursera/Edge Impulse](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
-+ [Computer Vision with Embedded Machine Learning - Coursera/Edge Impulse](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)
-+ Fundamentals textbook: ["Deep Learning with Python" by François Chollet](https://www.manning.com/books/deep-learning-with-python) - [GitHub Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
-+ Applications & Deploy textbook: ["TinyML" by Pete Warden, Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/)
-+ Deploy Text Book ["TinyML Cookbook" by Gian Marco Iodice](https://github.com/PacktPublishing/TinyML-Cookbook)
-+ ["Technical Strategy for AI Engineers, In the Era of Deep Learning" by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
-+ ["Python for Data Analysis by Wes MacKinney"](https://wesmckinney.com/book/)
+## Referências
+Principal
+  +	WARDEN, Pete; SITUNAYAKE, Daniel. TinyML - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers. O’Reilly Media: 2020.
+  +	Monk, Simon. Programação com Arduino II: Passos avançados com sketches. Bookman Editora, 2015.
+  +	ALMEIDA, Rodrigo. Programação de Sistemas Embarcados. Ed. 1. Elsevier, 2016.
+  +	WOLF, W. Computers as Components: Principles of Embedded Computing System Design. 3 ed. Morgan Kaufmann, 2012.
+  + OLIVEIRA, André S.; ANDRADE, Fernando Souza. Sistemas Embarcados: hardware e firmware na prática. Érica, 2006.
+
+Complementar
+  +	LAMBERT, Kenneth A. Fundamentos de Python: primeiros programas. São Paulo: Cengage Learning Brasil, 2022. E-book. ISBN 9786555584301. Disponível em: https://app.minhabiblioteca.com.br/#/books/9786555584301/. Acesso em: 17 jan. 2023.
+  +	FACELI, Katti; LORENA, Ana C.; GAMA, João; AL, et. Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina. [Digite o Local da Editora]: Grupo GEN, 2021. E-book. ISBN 9788521637509. Disponível em:  https://app.minhabiblioteca.com.br/#/books/9788521637509/.  Acesso em: 17 jan. 2023. 
+  +	GÉRON, Aurélien. Mãos à Obra Aprendizado de Máquina com Scikit-Learn & TensorFlow: Conceitos, Ferramentas e Técnicas Para a Construção de Sistemas Inteligentes; traduzido por Rafael Contatori. Rio de Janeiro: Alta Books, 2019. Tradução de: Hands-On Machine Learning with Scikit-Learn &TensorFlow.
+  +	MCROBERTS, Michael. Arduino básico. Novatec, 2011
+  +	MONK, Simon. Programação com Arduino: começando com Sketches. Bookman, 2013.
+  +	PLATT, Charles. Eletrônica para makers: um manual prático para o novo entusiasta de eletrônica. Novatec, 2016
 
 
 ## Professor:
 + [Sílvio Fernandes](http://lattes.cnpq.br/5111916887378777)
++ Sala 35 do CCEN – UFERSA campus Leste – Mossoró/RN
++ E-mails: silvio@ufersa.edu.br 
