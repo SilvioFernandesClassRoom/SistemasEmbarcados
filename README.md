@@ -20,4 +20,4 @@ The current version of this pioneering course in Latin America is primarily base
 
 
 ## Professor:
-+ [Sílvio Fernandes]([http://lattes.cnpq.br/4234592863079468](http://lattes.cnpq.br/5111916887378777)http://lattes.cnpq.br/5111916887378777)
++ [Sílvio Fernandes](http://lattes.cnpq.br/5111916887378777)
