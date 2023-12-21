@@ -3,8 +3,8 @@
 # TinyML - Aprendizado de Máquina para Sistemas Embarcados
 
 ### Cronograma de Aulas 
-+ 28/11/2023 - Introdução a Sistemas Embarcados e ao Arduino [[Slides]](slides/IESTI01_TinyML_class_1.pdf)
-+ 05/12/2023	Desafios do TinyML Paradigma de Machine Learning e construindo uma Deep Learning (DL) [[Slides]](tarefas/IESTI01_TinyML_class_2.pdf) [[Tarefa]](00_Curse_Folder/1_Fundamentals/Class_02/docs/)
++ 28/11/2023 - Introdução a Sistemas Embarcados e ao Arduino [[Slides]](slides/)
++ 05/12/2023	Desafios do TinyML Paradigma de Machine Learning e construindo uma Deep Learning (DL) [[Slides]](slides/) [[Tarefa]](tarefas/)
 
 ## Referências
 Principal
